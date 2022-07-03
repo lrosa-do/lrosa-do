@@ -1,4 +1,4 @@
-
+# Olá, sou o  Luis Santos 👋
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luis-miguel-rosa-santos-67673a178/">
@@ -30,7 +30,15 @@ happened through open-source.
 
 I'm interested in everything that has to do with video games and the creation of 3d graphics engines.
 
-
+<div>
+<div>
+my other personal account 
+</div>
+  </a>
+   <a href="https://github.com/akadjoker">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 
 
 ---
