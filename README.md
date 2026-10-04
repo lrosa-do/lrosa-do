@@ -34,14 +34,6 @@
 
 
 
-<div>
-<p></p>
-📄<br>
-  - :telescope: I’m working as a Data Analyst and graduate student from <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a>.
-  <br>
-  - 🌱 I’m interested in Android Development, Cross Platform, Game Development and Graphics Engines!
-
-</div>
 <br>
 
 <div>
